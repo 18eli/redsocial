@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393090826316",
+    "project_id": "resocial-14caa",
+    "storage_bucket": "resocial-14caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393090826316:android:60dc7bf9316ad07732f4e9",
+        "android_client_info": {
+          "package_name": "com.example.redsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393090826316-8v2c62lmm5ns2ue4kdgm00e8n4skbje2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbOMASi0sGmfY2vezXI9wdEMJ9Nrw3l0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393090826316-8v2c62lmm5ns2ue4kdgm00e8n4skbje2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
