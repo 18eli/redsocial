@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
                                     {
                                         Bundle extras = new Bundle();
                                         extras.putString("nombre",documents.getData().get("nombreApellido").toString());
+                                        extras.putString("dni",strDni);
                                         Intent siguiente = new Intent (MainActivity.this,principal.class);
                                         siguiente.putExtras(extras);
                                         startActivity(siguiente);
